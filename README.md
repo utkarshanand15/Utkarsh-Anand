@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://utkarshanand15.github.io/utkarshanand/](https://utkarshanand15.github.io/utkarshanand/)
 
-- 💬 Ask me about **html, css , react**
+- 💬 Ask me about **html, css , react, SQL**
 
 - 📫 How to reach me **utkarshverma689@gmail.com**
 
