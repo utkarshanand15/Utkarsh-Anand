@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshanand15&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshanand15" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning , react js**
+- 🌱 I’m currently learning **Machine Learning , react js,Data structure**
 
 - 👨‍💻 All of my projects are available at [https://utkarshanand15.github.io/utkarshanand/](https://utkarshanand15.github.io/utkarshanand/)
 
-- 💬 Ask me about **html, css , react, SQL**
+- 💬 Ask me about **html, css , react-js, SQL,Java, Python,C,git-hub,jupiter notebook, vs code**
 
 - 📫 How to reach me **utkarshverma689@gmail.com**
 
